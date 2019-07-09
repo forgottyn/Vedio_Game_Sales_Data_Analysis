@@ -15,13 +15,13 @@ I did research on this question from years, genre, platform, publisher and devel
 
 ### Year
 
-![year](D:\Github\Vedio_Game_Sales_Data_Analysis\pics\year.png)
+![year](https://github.com/forgottyn/Vedio_Game_Sales_Data_Analysis/blob/master/pics/year.png)
 
 Turns out games released between 2005 to 2013 have the highest sells, and at peak when in 2009. This is not surprising because games before this period may be out of style, but games after this period need to take the test of time. This could give game developers an insight - **if you want to build a best seller game, target it as a 10 year winner rather than just an eye-catcher for 6 months**. Following trends without thinking won't make a game time legend. 
 
 ### Genre & Platform
 
-![genre1](D:\Github\Vedio_Game_Sales_Data_Analysis\pics\genre1.png)
+![genre1](https://github.com/forgottyn/Vedio_Game_Sales_Data_Analysis/blob/master/pics/genre1.png)
 
 There are four genres that sells more than 1 billions (shipment are calculated in millions). These four genres are:
 
@@ -30,13 +30,13 @@ There are four genres that sells more than 1 billions (shipment are calculated i
 - Shooter         1340.85
 - Role-Playing    1142.91
 
-![platform2](D:\Github\Vedio_Game_Sales_Data_Analysis\pics\platform2.png)
+![platform2](https://github.com/forgottyn/Vedio_Game_Sales_Data_Analysis/blob/master/pics/platform2.png)
 
 In terms of platform, PS2 is the first and way more than the second, pc, following by X360, PS3 AND Wii. Congratulations, Sony. 
 
 ### Publisher
 
-![publisher1](D:\Github\Vedio_Game_Sales_Data_Analysis\pics\publisher1.png)
+![publisher1](https://github.com/forgottyn/Vedio_Game_Sales_Data_Analysis/blob/master/pics/publisher1.png)
 
 When I saw these two graphs, I doubted whether the data was correct(it was scraped from game website, so I believe we can assume it's correct). It's not surprised that Nintendo, Activision and Electronic Arts are top 3. What surprise me is that Nintendo is way more than the second and third. Copies sold by Nintendo is even more than sum of that sold by Activision, Electronic Arts and Sony. 
 

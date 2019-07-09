@@ -1,15 +1,5 @@
 # README
 
-## Dataset Link
-
-https://www.kaggle.com/gregorut/videogamesales
-
-https://www.kaggle.com/rush4ratio/video-game-sales-with-ratings
-
-https://www.kaggle.com/ashaheedq/video-games-sales-2019
-
-
-
 ## Introduction
 
 There are so many games on the market. Thus, game players have various choices. I'd like to draw insights from publisher sides. Specifically, I want to find answers for these two following questions:
